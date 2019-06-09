@@ -2,8 +2,11 @@
 
 ## practice to integrate two images into one image
 
-Original image_1 ![1](https://github.com/yamady0711/image-integration/tree/master/imgs/IMG_1380.jpg)
-Original image_2 ![2](https://github.com/yamady0711/image-integration/tree/master/imgs/IMG_1387.jpg)
+Original image_1
+![one](https://github.com/yamady0711/image-integration/blob/master/imgs/IMG_1380.JPG)
+Original image_2
+![two](https://github.com/yamady0711/image-integration/blob/master/imgs/IMG_1387.JPG)
 
-Integrated image ![3](https://github.com/yamady0711/image-integration/tree/master/imgs/opencv_add_weighted.jpg)
+Integrated image
+![three](https://github.com/yamady0711/image-integration/blob/master/imgs/opencv_add_weighted.jpg)
 
